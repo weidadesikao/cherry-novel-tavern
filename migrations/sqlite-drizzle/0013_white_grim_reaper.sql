@@ -1,0 +1,1 @@
+ALTER TABLE `novel_chat_session` ADD `assistant_id` text;

@@ -1,0 +1,4 @@
+interface:
+  display_name: "Code Review"
+  short_description: "Review Cherry Studio changes with project-specific checks"
+  default_prompt: "Use $gh-pr-review to review the current branch changes with Cherry Studio project-specific checks."
